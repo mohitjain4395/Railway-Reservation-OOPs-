@@ -1,8 +1,7 @@
-/*
+
 Author: 	Mohit Jain
 Roll No.: 	MT2019066
 Date: 		4/10/2019
-*/
 
 
 

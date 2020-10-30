@@ -12,7 +12,7 @@ Run reset.sh to create essential data files:
 sh compile.sh to create object file of server and client:
 >sh compile.sh
 
-#Here we are using port 15755
+#Here I am using port 15755
 run the server:
 >./server
 

@@ -1,7 +1,8 @@
 
 Author: 	Mohit Jain
-Roll No.: 	MT2019066
 Date: 		4/10/2019
+
+Overview: An object oriented project fully developed in C. I have used system calls, semaphores, file locking protocols, socket programming etc.
 
 
 
